@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BobApplication<bob>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.online.bob.BobApplication",
+            "projectName": "bob",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

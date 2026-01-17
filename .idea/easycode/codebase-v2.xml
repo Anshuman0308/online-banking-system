@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/bob/src/main/java/com/online/Entity/Account.java;C:/study part/bob/bob/src/main/java/com/online/Repository/AccountRepository.java;C:/study part/bob/bob/src/main/java/com/online/RestController/AccountController.java;C:/study part/bob/bob/src/main/java/com/online/RestController/AuthController.java;C:/study part/bob/bob/src/main/java/com/online/Service/Export/ExcelExportService.java;C:/study part/bob/bob/src/main/java/com/online/Service/AccountService.java;C:/study part/bob/bob/src/main/java/com/online/bobApplication.java;C:/study part/bob/bob/src/main/resources/static/css/style.css;C:/study part/bob/bob/src/main/resources/static/js/script.js;C:/study part/bob/bob/src/main/resources/static/index.html;C:/study part/bob/bob/src/main/resources/templates/dashboard.html;C:/study part/bob/bob/src/main/resources/templates/index.html;C:/study part/bob/bob/src/main/resources/templates/login.html;C:/study part/bob/bob/src/main/resources/templates/register.html;C:/study part/bob/bob/src/main/resources/templates/simple-login.html;C:/study part/bob/bob/src/test/java/com/online/bob/BobApplicationTests.java;C:/study part/bob/bob/HELP.md;C:/study part/bob/bob/README.md" />
+  </component>
+</project>
